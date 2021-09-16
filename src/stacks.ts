@@ -82,5 +82,6 @@ function baseConverter(decNumber: number, base: number){
 }
 
 console.log(baseConverter(100, 2));
+console.log(baseConverter(2, 2));
 console.log(baseConverter(200, 8));
 console.log(baseConverter(255, 16));
